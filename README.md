@@ -9,7 +9,7 @@ herramientas que me permitan experimentar y mejorar.
 - Desarrolle y doy sporte al sistema de [StarTalent para administrar candidatos](https://startalent.mx).
 - Tengo un [blog sobre desarrolo](https://webdeveloperhints.com).
 - Mi perfil profesional lo puedes encontrar en
-  [arthurolg.com](https://arthurolg.com] y en
+  [arthurolg.com](https://arthurolg.com) y en
 [LinkedIn](https://www.linkedin.com/in/lgzarturo).
 - Actualmente estoy aprendiendo sobre Microservicios y NodeJS.
 - Publico mis notas y prácticas sobre desarrollo en el repositorio [playground](https://github.com/lgzarturo/playground)
