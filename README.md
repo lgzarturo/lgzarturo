@@ -37,15 +37,12 @@ Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Pytho
 
 #### Web Developer Hints
 
-<!--> BLOG-WDH:START -->
-<!--> BLOG-WDH:END -->
+<!-- BLOG-WDH:START --><!-- BLOG-WDH:END -->
 
 #### Arthurolg Notes
 
-<!--> BLOG-ALG:START -->
-<!--> BLOG-ALG:END -->
+<!-- BLOG-ALG:START --><!-- BLOG-ALG:END -->
 
 #### Dev.to
 
-<!--> BLOG-DEV:START -->
-<!--> BLOG-DEV:END -->
+<!-- BLOG-DEV:START --><!-- BLOG-DEV:END -->
