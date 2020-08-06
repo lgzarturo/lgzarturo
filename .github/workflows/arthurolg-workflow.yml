@@ -1,0 +1,17 @@
+name: Latest Arthurolg blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-arthurolg-blog:
+    name: Update this repo's README with latest arthurolg.com posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+					comment_tag_name: "BLOG-ALG"
+					max_post_count: 6
+          feed_list: 'https://arthurolg.com/index.xml'
