@@ -27,13 +27,13 @@ Como profesionista soy una persona emprendedora que se apasiona por aprender má
 
 ---
 
-### 🛠Herramientas y lenguajes
+### 🛠 Herramientas y lenguajes
 
 Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Python | HTML5 | CSS3 | Sass | JavaScript | React | Hugo | Markdown | Node.js | Deno | SQL | MySQL | MongoDB | Redis
 
 ---
 
-### 🗄Ultimos artículos
+### 🗄 Últimos artículos
 
 #### Web Developer Hints
 
