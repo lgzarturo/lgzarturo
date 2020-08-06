@@ -8,13 +8,13 @@ Como profesionista soy una persona emprendedora que se apasiona por aprender má
 
 ### Me dedico a desarrollar software
 
-- 👨🏻‍💻Actualmente trabajo en [Revenatium.com](https://revenatium.com).
-- 💼Desarrolle y doy sporte al sistema de [StarTalent para administrar candidatos](https://startalent.mx).
-- 📰Tengo un pequeño [blog sobre desarrollo](https://webdeveloperhints.com).
-- 🤺Mi perfil profesional lo puedes encontrar en [arthurolg.com](https://arthurolg.com) y en [LinkedIn](https://www.linkedin.com/in/lgzarturo).
-- 👨🏻‍🔬Actualmente estoy aprendiendo sobre Microservicios y NodeJS.
-- 📓Publico mis notas y prácticas sobre desarrollo en el repositorio [playground](https://github.com/lgzarturo/playground)
-- 📊Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.
+- 👨🏻‍💻 Actualmente trabajo en [Revenatium.com](https://revenatium.com).
+- 💼 Desarrolle y doy sporte al sistema de [StarTalent para administrar candidatos](https://startalent.mx).
+- 📰 Tengo un pequeño [blog sobre desarrollo](https://webdeveloperhints.com).
+- 🤺 Mi perfil profesional lo puedes encontrar en [arthurolg.com](https://arthurolg.com) y en [LinkedIn](https://www.linkedin.com/in/lgzarturo).
+- 👨🏻‍🔬 Actualmente estoy aprendiendo sobre Microservicios y NodeJS.
+- 📓 Publico mis notas y prácticas sobre desarrollo en el repositorio [playground](https://github.com/lgzarturo/playground)
+- 📊 Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.
 
 ---
 
@@ -46,3 +46,13 @@ Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Pytho
 #### Dev.to
 
 <!-- BLOG-DEV:START --><!-- BLOG-DEV:END -->
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
+
+> NOTA: Los lenguajes mostrados en la gráfica solo indica la cantidad de código que tengo en GitHub, no representan los conocimientos que tengo.
+
+![Lenguajes de programación](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lgzarturo&card_width=494&theme=dark 'Lenguajes')
