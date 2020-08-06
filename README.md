@@ -41,7 +41,11 @@ Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Pytho
 
 #### Arthurolg Notes
 
-<!-- BLOG-ALG:START --><!-- BLOG-ALG:END -->
+<!-- BLOG-ALG:START -->
+- [Proyectos de desarrollo](https://arthurolg.com/posts/development-projects/)
+- [Perfil profesional](https://arthurolg.com/profile/)
+- [Sobre mí](https://arthurolg.com/about/)
+<!-- BLOG-ALG:END -->
 
 #### Dev.to
 
