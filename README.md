@@ -49,4 +49,10 @@ Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Pytho
 
 #### Dev.to
 
-<!-- BLOG-DEV:START --><!-- BLOG-DEV:END -->
+<!-- BLOG-DEV:START -->
+- [Los 12 mejores lenguajes de programación](https://webdeveloperhints.com/posts/los-12-mejores-lenguajes-de-programacion/)
+- [20 Frases para el éxito](https://webdeveloperhints.com/posts/20-frases-para-el-exito/)
+- [Sobre mí](https://webdeveloperhints.com/about/)
+- [Condiciones de uso de nuestros servicios](https://webdeveloperhints.com/terms/)
+- [Contacto](https://webdeveloperhints.com/contact/)
+<!-- BLOG-DEV:END -->
