@@ -56,11 +56,11 @@ Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Pytho
 #### Dev.to
 
 <!-- BLOG-DEV:START -->
+- [Estado de tus aplicaciones](https://dev.to/lgzarturo/estado-de-tus-aplicaciones-b13)
+- [Tips para WebStorm](https://dev.to/lgzarturo/tips-para-webstorm-59k5)
 - [Crea un projecto en Django en 5 pasos](https://dev.to/lgzarturo/crea-un-projecto-en-django-en-5-pasos-5h7o)
 - [Actualizar la versión de Ubuntu](https://dev.to/lgzarturo/actualizar-la-version-de-ubuntu-5g98)
 - [Herramientas para mejorar la terminal](https://dev.to/lgzarturo/herramientas-para-mejorar-la-terminal-9mg)
-- [Automatizar certificados de seguridad con Certbot](https://dev.to/lgzarturo/automatizar-certificados-de-seguridad-con-certbot-n6n)
-- [Mejora tu productividad con la Terminal](https://dev.to/lgzarturo/mejora-tu-productividad-con-la-terminal-4p08)
 <!-- BLOG-DEV:END -->
 
 ---
