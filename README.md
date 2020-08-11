@@ -56,11 +56,11 @@ Git | VSCode | Jetbrains | Java | Kotlin | Groovy | Spring Boot | Django | Pytho
 #### Dev.to
 
 <!-- BLOG-DEV:START -->
+- [EditorConfig](https://dev.to/lgzarturo/editorconfig-56lh)
 - [7 Libros para programadores](https://dev.to/lgzarturo/7-libros-para-programadores-46mi)
 - [Icons Resources](https://dev.to/lgzarturo/icons-resources-6k1)
 - [Recursos para GitFlow](https://dev.to/lgzarturo/recursos-para-gitflow-1hjh)
 - [Estado de tus aplicaciones](https://dev.to/lgzarturo/estado-de-tus-aplicaciones-b13)
-- [Tips para WebStorm](https://dev.to/lgzarturo/tips-para-webstorm-59k5)
 <!-- BLOG-DEV:END -->
 
 ---
