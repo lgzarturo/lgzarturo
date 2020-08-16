@@ -28,46 +28,16 @@ Como profesionista soy una persona emprendedora que se apasiona por aprender má
 ---
 
 ### 🛠 Herramientas y lenguajes
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" width="26" alt="Git" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="26" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" width="26" alt="VSCode" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" width="26" alt="vim" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" width="26" alt="IntelliJ Idea" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="26" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" width="26" alt="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/groovy.svg" width="26" alt="Groovy" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="26" alt="Spring" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" width="26" alt="Gradle" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" width="26" alt="Django" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="26" alt="Python" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="26" alt="Html5" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="26" alt="Css3" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="26" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="26" alt="React" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" width="26" alt="Vue JS" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" width="26" alt="Hugo" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" width="26" alt="Markdown" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" width="26" alt="NodeJS" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" width="26" alt="Deno" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" width="26" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" width="26" alt="Postgresql" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" width="26" alt="SQLite" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" width="26" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" width="26" alt="Redis" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" width="26" alt="AmazonAWS" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/digitalocean.svg" width="26" alt="DigitalOcean" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linode.svg" width="26" alt="Linode" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sentry.svg" width="26" alt="Sentry" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" width="26" alt="Wordpress" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" width="26" alt="Font Awesome" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" width="26" alt="jQuery" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" width="26" alt="Photoshop" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" width="26" alt="Premier" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" width="26" alt="Illustrator" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" width="26" alt="Paypal" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stripe.svg" width="26" alt="Stripe" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mailchimp.svg" width="26" alt="Mailchimp" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" width="26" alt="Postman" />
+
+Git | VSCode | Vim | Jetbrains | Java | Kotlin | Groovy | Gradle | Spring Boot | Django | Python | HTML5 | CSS3 | JavaScript | React | Vue JS | Hugo | Markdown | Node.js | Deno | SQL | MySQL | MongoDB | Redis | Photoshop | Premiere Pro
+
+### 👨🏻‍🔬 DevOps
+
+Amazon AWS | Digital Ocean | Linode | Docker | Kubernetes
+
+### 🚀 APIs y servicios
+
+Stripe | Paypal | Mailgun | Mailchimp | Postman | Wordpress | Sentry | Circle CI | GitHub Actions
 
 ---
 
