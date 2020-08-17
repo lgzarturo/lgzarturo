@@ -1,5 +1,10 @@
 # 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
 
+![](./assets/github-header.jpg)
+
+![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20me%20on%20Twitter&style=for-the-badge)
+
 ## Soy Ingeniero de Software
 
 Como profesionista soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. Me especializo como programador de software (fullstack) y me gusta trabajar con herramientas que me permitan experimentar y mejorar.
