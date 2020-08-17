@@ -1,6 +1,6 @@
 # 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
 
-![](./assets/github-header.jpg)
+![](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
 ![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20me%20on%20Twitter&style=for-the-badge)
@@ -79,6 +79,8 @@ Stripe | Paypal | Mailgun | Mailchimp | Postman | Wordpress | Sentry | Circle CI
 ---
 
 ### GitHub Stats
+
+<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right" alt="GitHub" style="float: right;" />
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
 
