@@ -69,11 +69,11 @@ Stripe | Paypal | Mailgun | Mailchimp | Postman | Wordpress | Sentry | Circle CI
 #### Dev.to
 
 <!-- BLOG-DEV:START -->
+- [Las mejores extensiones para IntelliJ y VSCode](https://dev.to/lgzarturo/las-mejores-extensiones-para-intellij-y-vscode-1o1m)
 - [Dark Theme](https://dev.to/lgzarturo/dark-theme-57kd)
 - [Repositorios interesantes](https://dev.to/lgzarturo/repositorios-interesantes-59ep)
 - [EditorConfig](https://dev.to/lgzarturo/editorconfig-56lh)
 - [7 Libros para programadores](https://dev.to/lgzarturo/7-libros-para-programadores-46mi)
-- [Icons Resources](https://dev.to/lgzarturo/icons-resources-6k1)
 <!-- BLOG-DEV:END -->
 
 ---
