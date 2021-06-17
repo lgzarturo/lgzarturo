@@ -27,12 +27,12 @@ Como profesionista soy una persona emprendedora que se apasiona por aprender má
 
 ### Mis redes sociales
 
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/lgzarturo/)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png' alt='Twitter' style='width:24px; margin-right: 10px;'/>](https://twitter.com/lgzarturo)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/lgzarturo/)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/pinterest.png' alt='Pinterest' style='width:24px; margin-right: 10px;'/>](https://www.pinterest.com.mx/arthurolg/)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/lgzarturo)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/tumblr.png' alt='Tumblr' style='width:24px; margin-right: 10px;'/>](https://arthurolg.tumblr.com/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/lgzarturo/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png' alt='Twitter' width='24' style='width:24px; margin-right: 10px;'/>](https://twitter.com/lgzarturo)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/lgzarturo/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/pinterest.png' alt='Pinterest' width='24' style='width:24px; margin-right: 10px;'/>](https://www.pinterest.com.mx/arthurolg/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/lgzarturo)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/tumblr.png' alt='Tumblr' width='24' style='width:24px; margin-right: 10px;'/>](https://arthurolg.tumblr.com/)
 
 ---
 
@@ -108,6 +108,6 @@ desarrollo de proyectos digitales y comerciales.
 
 > NOTA: Los lenguajes mostrados en la gráfica solo indica la cantidad de código que tengo en GitHub, no representan los conocimientos que tengo.
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" style="float: right; width: 200px" />
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" />
 
 ![Lenguajes de programación](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lgzarturo&card_width=494&theme=dark 'Lenguajes')
