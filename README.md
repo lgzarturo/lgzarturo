@@ -102,12 +102,12 @@ desarrollo de proyectos digitales y comerciales.
 
 ### GitHub Stats
 
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" />
+<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
 
 > NOTA: Los lenguajes mostrados en la gráfica solo indica la cantidad de código que tengo en GitHub, no representan los conocimientos que tengo.
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" />
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
 
 ![Lenguajes de programación](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lgzarturo&card_width=494&theme=dark 'Lenguajes')
