@@ -83,9 +83,11 @@ desarrollo de proyectos digitales y comerciales.
 #### Arthurolg Notes
 
 <!-- BLOG-ALG:START -->
+- [Ampliando mi perfil profesional](https://arthurolg.com/posts/experto-en-desarrollo-de-software/)
+- [11 reglas de vida que sigo al pie de la letra](https://arthurolg.com/posts/11-reglas-de-vida-que-sigo/)
+- [6 cualidades que debes de tener si quieres ser exitoso](https://arthurolg.com/posts/6-cualidades-para-ser-exitoso/)
 - [Proyectos de desarrollo](https://arthurolg.com/posts/development-projects/)
 - [Perfil profesional](https://arthurolg.com/profile/)
-- [Sobre mí](https://arthurolg.com/about/)
 <!-- BLOG-ALG:END -->
 
 #### Dev.to
