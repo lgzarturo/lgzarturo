@@ -73,11 +73,11 @@ desarrollo de proyectos digitales y comerciales.
 #### Web Developer Hints
 
 <!-- BLOG-WDH:START -->
-- [7 libros de programación que debes leer](https://webdeveloperhints.com/posts/7-libros-de-programacion-que-debes-leer/)
-- [Los 12 mejores lenguajes de programación](https://webdeveloperhints.com/posts/los-12-mejores-lenguajes-de-programacion/)
-- [20 Frases para el éxito](https://webdeveloperhints.com/posts/20-frases-para-el-exito/)
-- [Sobre mí](https://webdeveloperhints.com/about/)
-- [Condiciones de uso de nuestros servicios](https://webdeveloperhints.com/terms/)
+- [Como instalar MySQL en MacOS](https://webdeveloperhints.com/posts/instala-mysql-para-macos/)
+- [Herramientas y sitios para desarrollo](https://webdeveloperhints.com/posts/herramientas-de-desarrollo/)
+- [Github Search Cheat Sheet](https://webdeveloperhints.com/posts/github-cheat-sheet/)
+- [Buenas prácticas con Wordpress](https://webdeveloperhints.com/posts/checklist-wordpress/)
+- [4 Etapas para el desarrollo de software](https://webdeveloperhints.com/posts/las-4-etapas-del-desarrollo/)
 <!-- BLOG-WDH:END -->
 
 #### Arthurolg Notes
