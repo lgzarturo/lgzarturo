@@ -1,15 +1,15 @@
 # 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
 
-![](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
+![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
 ![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20me%20on%20Twitter&style=for-the-badge)
 
 ## 👨🏻‍💻 Soy Ingeniero de Software
 
-Desarrollador de sistemas experimentado con un historial demostrado de trabajo en la industria de viajes, consultoría, reclutamiento y recursos humanos. Experto en tecnologías con lenguajes como Java, Kotlin, Groovy, Php y Python. 
+Desarrollador de sistemas experimentado con un historial demostrado de trabajo en la industria de viajes, consultoría, reclutamiento y recursos humanos. Experto en tecnologías con lenguajes como Java, Kotlin, Groovy, Php y Python.
 
-Como profesionista soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. Me especializo como programador de software (fullstack) y me gusta trabajar con herramientas que me permitan experimentar y mejorar.
+Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. Me especializo como programador de software (**fullstack**) y me gusta trabajar con herramientas que me permitan experimentar y mejorar.
 
 > Tengo sólidos conocimientos en diseño de interfaces, experiencia de usuarios, Adobe Photoshop, Adobe Illustrator, identidad corporativa y Marketing digital.
 
@@ -32,13 +32,13 @@ Como profesionista soy una persona emprendedora que se apasiona por aprender má
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/lgzarturo/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/pinterest.png' alt='Pinterest' width='24' style='width:24px; margin-right: 10px;'/>](https://www.pinterest.com.mx/arthurolg/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/lgzarturo)
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/tumblr.png' alt='Tumblr' width='24' style='width:24px; margin-right: 10px;'/>](https://arthurolg.tumblr.com/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/tumblr.png' alt='Tumblr' width='24' style='width:24px; margin-right: 10px;'/>](https://lgzarturo.tumblr.com/)
 
 ---
 
 ### 🛠 Herramientas y lenguajes
 
-- Git, VSCode, Vim, Jetbrains, Java, Kotlin, Groovy, Gradle, Spring Boot, Django, Python, HTML5
+- Git, VSCode, Vim, JetBrains, Java, Kotlin, Groovy, Gradle, Spring Boot, Django, Python, HTML5
 - CSS3, JavaScript, React, Vue JS, Hugo, Markdown, Node.js, Deno, SQL, MySQL, MongoDB
 - Redis, Photoshop, Premiere Pro, Serverless
 
@@ -53,11 +53,13 @@ Como profesionista soy una persona emprendedora que se apasiona por aprender má
 ---
 
 ### 👨🏻‍🎨 Creativo, especialista en programación
+
 Con experiencia en el manejo del proceso de fabricar software creativo,
 desde la conceptualización hasta la entrega. Experto en la coordinación y
 desarrollo de proyectos digitales y comerciales.
 
 ### 👨🏻‍🚀 Habilidades
+
 - Experto en programación y desarrollo de sistemas.
 - Experto en Adobe Creative Suite.
 - Administración de proyectos.
@@ -80,7 +82,7 @@ desarrollo de proyectos digitales y comerciales.
 - [4 Etapas para el desarrollo de software](https://webdeveloperhints.com/posts/las-4-etapas-del-desarrollo/)
 <!-- BLOG-WDH:END -->
 
-#### Arthurolg Notes
+#### ArthuroLG Notes
 
 <!-- BLOG-ALG:START -->
 - [Ampliando mi perfil profesional](https://arthurolg.com/posts/experto-en-desarrollo-de-software/)
@@ -90,7 +92,7 @@ desarrollo de proyectos digitales y comerciales.
 - [Perfil profesional](https://arthurolg.com/profile/)
 <!-- BLOG-ALG:END -->
 
-#### Dev.to
+#### DevTo
 
 <!-- BLOG-DEV:START -->
 - [Las mejores extensiones para IntelliJ y VSCode](https://dev.to/lgzarturo/las-mejores-extensiones-para-intellij-y-vscode-1o1m)
