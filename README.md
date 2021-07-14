@@ -74,13 +74,7 @@ desarrollo de proyectos digitales y comerciales.
 
 #### Web Developer Hints
 
-<!-- BLOG-WDH:START -->
-- [Como instalar MySQL en MacOS](https://webdeveloperhints.com/posts/instala-mysql-para-macos/)
-- [Herramientas y sitios para desarrollo](https://webdeveloperhints.com/posts/herramientas-de-desarrollo/)
-- [Github Search Cheat Sheet](https://webdeveloperhints.com/posts/github-cheat-sheet/)
-- [Buenas prácticas con Wordpress](https://webdeveloperhints.com/posts/checklist-wordpress/)
-- [4 Etapas para el desarrollo de software](https://webdeveloperhints.com/posts/las-4-etapas-del-desarrollo/)
-<!-- BLOG-WDH:END -->
+<!-- BLOG-WDH:START --><!-- BLOG-WDH:END -->
 
 #### ArthuroLG Notes
 
