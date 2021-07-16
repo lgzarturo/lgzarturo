@@ -74,7 +74,13 @@ desarrollo de proyectos digitales y comerciales.
 
 #### Web Developer Hints
 
-<!-- BLOG-WDH:START --><!-- BLOG-WDH:END -->
+<!-- BLOG-WDH:START -->
+- [Personaliza VSCode](https://webdeveloperhints.com/tools/vscode-customization.html)
+- [5 Formas de escribir código limpio](https://webdeveloperhints.com/develop/5-formas-de-escribir-codigo-limpio.html)
+- [Crea tu perfil profesional](https://webdeveloperhints.com/guides/crea-tu-perfil-profesional.html)
+- [6 pasos para un Marketing efectivo](https://webdeveloperhints.com/marketing/marketing-efectivo.html)
+- [20 Frases para el exito](https://webdeveloperhints.com/lifehacks/20-frases-para-el-exito.html)
+<!-- BLOG-WDH:END -->
 
 #### ArthuroLG Notes
 
