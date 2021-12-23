@@ -1,6 +1,3 @@
----
-lastmod: '2021-12-23T02:46:06.671Z'
----
 # 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
 
 ![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
@@ -30,11 +27,11 @@ Soy una persona emprendedora que se apasiona por aprender más sobre programaci�
 
 ### Mis sitios
 
-- Blog personal: [arthurolg.com](https://arthurolg.com)
-- Perfil con mi experiencia profesional: [developer.arthurolg.com](https://developer.arthurolg.com)
-- Juego de cartas con React: [miraeljuego.com](https://miraeljuego.com)
-- Blog con tips sobre desarrollo web y tecnologia: [webdeveloperhints.com](https://webdeveloperhints.com)
-- Tablero de empleos (**En construcción**): [joobslot.com](https://joobslot.com)
+- 📗 Blog personal: [arthurolg.com](https://arthurolg.com)
+- 🥷🏻 Perfil con mi experiencia profesional: [developer.arthurolg.com](https://developer.arthurolg.com)
+- ♦️ Juego de cartas con React: [miraeljuego.com](https://miraeljuego.com)
+- 👨🏻‍🚀 Blog con tips sobre desarrollo web y tecnologia: [webdeveloperhints.com](https://webdeveloperhints.com)
+- 💼 Tablero de empleos (**En construcción**): joobslot.com
 
 ---
 
