@@ -1,3 +1,6 @@
+---
+lastmod: '2021-12-23T02:46:06.671Z'
+---
 # 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
 
 ![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
@@ -9,7 +12,7 @@
 
 Desarrollador de sistemas experimentado con un historial demostrado de trabajo en la industria de viajes, consultoría, reclutamiento y recursos humanos. Experto en tecnologías con lenguajes como Java, Kotlin, Groovy, Php y Python.
 
-Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. Me especializo como programador de software (**fullstack**) y me gusta trabajar con herramientas que me permitan experimentar y mejorar.
+Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias. Me especializo como programador de software (**full-stack**) y me gusta trabajar con herramientas que me permitan experimentar y mejorar.
 
 > Tengo sólidos conocimientos en diseño de interfaces, experiencia de usuarios, Adobe Photoshop, Adobe Illustrator, identidad corporativa y Marketing digital.
 
@@ -22,6 +25,16 @@ Soy una persona emprendedora que se apasiona por aprender más sobre programaci�
 - 👨🏻‍🔬 Actualmente estoy aprendiendo sobre micro servicios y [NodeJS](https://github.com/lgzarturo/homework).
 - 📓 Público mis notas y prácticas sobre desarrollo en el repositorio [playground](https://github.com/lgzarturo/playground)
 - 📊 Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.
+
+---
+
+### Mis sitios
+
+- Blog personal: [arthurolg.com](https://arthurolg.com)
+- Perfil con mi experiencia profesional: [developer.arthurolg.com](https://developer.arthurolg.com)
+- Juego de cartas con React: [miraeljuego.com](https://miraeljuego.com)
+- Blog con tips sobre desarrollo web y tecnologia: [webdeveloperhints.com](https://webdeveloperhints.com)
+- Tablero de empleos (**En construcción**): [joobslot.com](https://joobslot.com)
 
 ---
 
@@ -54,9 +67,9 @@ Soy una persona emprendedora que se apasiona por aprender más sobre programaci�
 
 ### 👨🏻‍🎨 Creativo, especialista en programación
 
-Con experiencia en el manejo del proceso de fabricar software creativo,
-desde la conceptualización hasta la entrega. Experto en la coordinación y
-desarrollo de proyectos digitales y comerciales.
+Tengo experiencia en el proceso de diseño de interfaces, diseño de experiencia de usuarios, fabricación de software y el proceso creativo del desarrollo de productos digitales.
+
+En marketing digital y SEO, tengo experiencia en el proceso de identidad corporativa, diseño de campañas de marketing, gestión de redes sociales y el proceso para optimizar contenido que se distribuye en medios digitales.
 
 ### 👨🏻‍🚀 Habilidades
 
