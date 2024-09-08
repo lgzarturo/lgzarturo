@@ -79,35 +79,23 @@ Cada día me enfoco en aprender más sobre: marketing digital, SEO, procesos de 
 
 ### 🗄 Últimos artículos
 
-#### Web Developer Hints
+#### Web Developer
 
-<!-- BLOG-WDH:START -->
-- [Formulas para crear KPIs y medir resultados](https://webdeveloperhints.com/marketing/marketing/marketing-e-commerce-kpi.html)
-- [Personaliza VSCode](https://webdeveloperhints.com/tools/vscode-customization.html)
-- [5 Formas de escribir código limpio](https://webdeveloperhints.com/develop/5-formas-de-escribir-codigo-limpio.html)
-- [Crea tu perfil profesional](https://webdeveloperhints.com/guides/crea-tu-perfil-profesional.html)
-- [6 pasos para un Marketing efectivo](https://webdeveloperhints.com/marketing/marketing-efectivo.html)
-<!-- BLOG-WDH:END -->
-
-#### ArthuroLG Notes
-
-<!-- BLOG-ALG:START -->
-- [Ampliando mi perfil profesional](https://arthurolg.com/posts/experto-en-desarrollo-de-software/)
-- [11 reglas de vida que sigo al pie de la letra](https://arthurolg.com/posts/11-reglas-de-vida-que-sigo/)
-- [6 cualidades que debes de tener si quieres ser exitoso](https://arthurolg.com/posts/6-cualidades-para-ser-exitoso/)
-- [Proyectos de desarrollo](https://arthurolg.com/posts/development-projects/)
-- [Perfil profesional](https://arthurolg.com/profile/)
-<!-- BLOG-ALG:END -->
+- [Consejos, Hábitos y Lecturas Fundamentales para Desarrolladores](https://github.com/lgzarturo/learning-resources/blob/main/software-development/Consejos%2C%20Hábitos%20y%20Lecturas%20Fundamentales%20para%20Desarrolladores.pdf)
+- [Introducción al Diseño de APIs REST](https://github.com/lgzarturo/learning-resources/blob/main/spring-boot/Buenas%20Prácticas%20para%20el%20Diseño%20de%20APIs%20REST%20en%20Spring%20Boot.pdf)
+- [Instalar Java 17 Spring Boot y Maven](https://github.com/lgzarturo/learning-resources/blob/main/spring-boot/Instalar%20Java%2017%20Spring%20Boot%20y%20Maven.pdf)
+- [Estructura de un proyecto con Spring Boot](https://github.com/lgzarturo/learning-resources/blob/main/spring-boot/Estructura%20de%20un%20proyecto%20con%20Spring%20Boot.pdf)
+- [Roadmap para el desarrollo con Spring Boot](https://github.com/lgzarturo/learning-resources/blob/main/spring-boot/Roadmap%20para%20el%20desarrollo%20con%20Spring%20Boot.pdf)
 
 #### DevTo
 
-<!-- BLOG-DEV:START -->
 - [Las mejores extensiones para IntelliJ y VSCode](https://dev.to/lgzarturo/las-mejores-extensiones-para-intellij-y-vscode-1o1m)
 - [Dark Theme](https://dev.to/lgzarturo/dark-theme-57kd)
 - [Repositorios interesantes](https://dev.to/lgzarturo/repositorios-interesantes-59ep)
 - [EditorConfig](https://dev.to/lgzarturo/editorconfig-56lh)
-- [7 Libros para programadores](https://dev.to/lgzarturo/7-libros-para-programadores-46mi)
-<!-- BLOG-DEV:END -->
+- [Mejora tu productividad con la Terminal](https://dev.to/lgzarturo/mejora-tu-productividad-con-la-terminal-4p08)
+- [Automatizar certificados de seguridad con Certbot](https://dev.to/lgzarturo/automatizar-certificados-de-seguridad-con-certbot-n6n)
+- [Herramientas para mejorar la terminal](https://dev.to/lgzarturo/herramientas-para-mejorar-la-terminal-9mg)
 
 ---
 
