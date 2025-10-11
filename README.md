@@ -1,9 +1,9 @@
-# 🚀 [Arturo López — Líder Técnico & Desarrollador Full Stack](https://twitter.com/lgzarturo)
+# 🚀 [Arturo López](https://x.com/arturolgdev) — Líder Técnico & Desarrollador Full Stack
 
 ![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20on%20GitHub&style=for-the-badge)](https://github.com/lgzarturo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20on%20Twitter&style=for-the-badge)](https://twitter.com/lgzarturo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20on%20Twitter&style=for-the-badge)](https://x.com/arturolgdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgzarturo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lgzarturo)
 
 ## 👋 ¡Hola, soy Arthuro!
@@ -15,7 +15,7 @@ Creo en el poder del código bien diseñado, los equipos motivados y los product
 
 ## 🧭 Actualmente
 
-- 👨🏻‍💻 **Desarrollador en [Revenatium.com](https://revenatium.com)**: Dirigiendo el desarrollo de plataformas innovadoras, diseñando arquitecturas escalables y promoviendo buenas prácticas de ingeniería.
+- 👨🏻‍💻 **Desarrollador en [Revenatium.com](https://revenatium.com)**: Desarrollo de plataformas innovadoras, arquitecturas escalables y promoviendo buenas prácticas de ingeniería.
 - 💼 **Desarrollo y soporte de [StarTalent](https://startalent.mx)**: Sistema para la administración de candidatos en procesos de reclutamiento.
 - ⚙️ **Explorando nuevas fronteras**: Profundizando en **microservicios**, **Node.js** y **arquitecturas distribuidas**.
 
@@ -72,12 +72,25 @@ Mi enfoque se basa en:
 
 ---
 
+## 📰 Artículos y Recursos
+
+Comparto conocimientos y experiencias en mi blog: [arthurolg.com](https://arthurolg.com)
+
+Artículos destacados:
+- [**Consejos para Proyectos Escalables y Mantenibles**](https://www.arthurolg.com/article/programming_buenas-practicas-desarrollo-backend-proyectos-escalables)
+- [**Buenas Prácticas para el Diseño de API REST. Evita Exponer Entidades JPA y Usa DTOs Eficientemente**](https://www.arthurolg.com/article/programming_optimiza-api-rest-java-dtos-vs-entidades-jpa)
+- [**Guía Completa para Dominar Java y Spring Boot - Desarrollo de Aplicaciones Paso a Paso**](https://www.arthurolg.com/article/programming_guia-completa-java-spring-boot-desarrollo)
+- [**Reflexión inspirada en la dedicatoria del SICP**](https://www.arthurolg.com/article/programming_reflexion-inspirada-en-la-dedicatoria-del-sicp)
+- [**La Solución Ideal para Gestionar Planes de Lealtad y Fidelizar a tus Clientes**](https://www.arthurolg.com/article/marketing_loyalty-center-gestion-planes-lealtad)
+
+---
+
 ## 🌐 Conecta conmigo
 
 - 🌍 [developer.arthurolg.com](https://developer.arthurolg.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lgzarturo/)
-- 🐦 [Twitter (X)](https://twitter.com/lgzarturo)
-- 📸 [Instagram](https://www.instagram.com/lgzarturo/)
+- 🐦 [Twitter (X)](https://x.com/arturolgdev)
+- 📸 [Instagram](https://www.instagram.com/arturolgdev/)
 - 📌 [Pinterest](https://www.pinterest.com.mx/arthurolg/)
 - 🎨 [Tumblr](https://lgzarturo.tumblr.com/)
 
