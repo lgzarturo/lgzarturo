@@ -1,63 +1,85 @@
-# 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
+# 🚀 [Arturo López — Líder Técnico & Desarrollador Full Stack](https://twitter.com/lgzarturo)
 
 ![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
-![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20me%20on%20Twitter&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20on%20GitHub&style=for-the-badge)](https://github.com/lgzarturo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20on%20Twitter&style=for-the-badge)](https://twitter.com/lgzarturo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lgzarturo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lgzarturo)
 
-## ¡Hola! 👋🏻
+## 👋 ¡Hola, soy Arthuro!
 
-Bienvenido a mi perfil de GitHub. Soy Arthuro LG., un **Desarrollador Full Stack** con pasión por la programación, la tecnología y las ciencias. Tengo experiencia en las industrias de viajes, consultoría, reclutamiento y recursos humanos. Me especializo en lenguajes como **Java**, **Kotlin**, **JavaScript** y **Python**.
+Soy un **Desarrollador Full Stack y Líder Técnico** con una profunda pasión por crear soluciones que combinan **tecnología, arquitectura de software y creatividad**.  
+Creo en el poder del código bien diseñado, los equipos motivados y los productos que generan impacto real.
 
-### 🚀 ¿Qué hago actualmente?
+> 💡 “No solo construyo software, construyo soluciones que impulsan ideas.”
 
-- 👨🏻‍💻 **Desarrollador en [Revenatium.com](https://revenatium.com)**. Creando soluciones innovadoras y eficientes.
+## 🧭 Actualmente
+
+- 👨🏻‍💻 **Desarrollador en [Revenatium.com](https://revenatium.com)**: Dirigiendo el desarrollo de plataformas innovadoras, diseñando arquitecturas escalables y promoviendo buenas prácticas de ingeniería.
 - 💼 **Desarrollo y soporte de [StarTalent](https://startalent.mx)**: Sistema para la administración de candidatos en procesos de reclutamiento.
-- 🤺 **Aprendiendo**: Profundizando en **microservicios** y **Node.js** para ampliar mis habilidades en arquitectura de software.
+- ⚙️ **Explorando nuevas fronteras**: Profundizando en **microservicios**, **Node.js** y **arquitecturas distribuidas**.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+## 🧰 Stack Tecnológico
 
-- **Lenguajes**: Java, Kotlin, JavaScript, Python
-- **Frameworks**: Spring Boot, React, Django, Vue.js, Next.js
-- **Bases de datos**: MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
-- **DevOps**: AWS, Docker, Kubernetes, GitHub Actions, Circle CI
-- **Herramientas**: Git, Selenium, Scrapy, Hugo
-- **Servicios**: Stripe, PayPal, Mailgun, Mailchimp, Sentry
+**Lenguajes:**  
+Java • Kotlin • JavaScript • Python
 
----
+**Frameworks & Librerías:**  
+Spring Boot • React • Next.js • Django • Vue.js
 
-### 🎨 Habilidades creativas
+**Bases de datos:**  
+MySQL • PostgreSQL • MongoDB • Redis • DynamoDB
 
-- Diseño de interfaces y experiencia de usuario (UI/UX)
-- Experto en Adobe Creative Suite (Photoshop, etc.)
-- Identidad corporativa y diseño gráfico
-- Marketing digital, SEO, SEM y estrategias de eCommerce
+**Infraestructura & DevOps:**  
+AWS • Docker • Kubernetes • GitHub Actions • Circle CI
 
+**Herramientas & Servicios:**  
+Git • Selenium • Scrapy • Hugo • Stripe • PayPal • Mailgun • Mailchimp • Sentry
 
 ---
 
-### 🧠 Siempre aprendiendo
+## 🎨 Lado Creativo
 
-- **Repositorio Playground**: Comparto mis notas y prácticas de desarrollo en [Playground](https://github.com/lgzarturo/playground).
-- **Blog personal**: Publico artículos y recursos en [arthurolg.com](https://arthurolg.com)
-- Artículos recientes:
-  - Consejos, Hábitos y Lecturas Fundamentales para Desarrolladores
-  - Introducción al Diseño de APIs REST
-  - Estructura de un proyecto con Spring Boot
+Además de programar, disfruto crear experiencias visuales y estrategias digitales.
+
+- Diseño UI/UX e identidad corporativa  
+- Adobe Creative Suite (Photoshop, Illustrator, XD)  
+- SEO técnico y marketing digital orientado a resultados  
 
 ---
 
-### 🌐 Conéctate conmigo
+## 💼 Proyectos Destacados
 
-- Sitio web profesional: [developer.arthurolg.com](https://developer.arthurolg.com/)
-- LinkedIn: [linkedin.com/in/arthurolg](https://www.linkedin.com/in/lgzarturo/)
-- Twitter (X): [@lgzarturo](https://twitter.com/lgzarturo)
-- Instagram: [@lgzarturo](https://www.instagram.com/lgzarturo/)
-- Pinterest: [@arthurolg](https://www.pinterest.com.mx/arthurolg/)
-- Facebook: [lgzarturo](https://www.facebook.com/lgzarturo)
-- Tumblr: [lgzarturo](https://lgzarturo.tumblr.com/)
+🔹 **[arthurolg.com](https://arthurolg.com)** — Blog sobre tecnología, programación, marketing y videojuegos.  
+🔹 **[StarTalent.mx](https://startalent.mx)** — Sistema SaaS de gestión de reclutamiento  
+🔹 **[MiraElJuego.com](https://miraeljuego.com)** — Juego de cartas interactivo hecho en React  
+🔹 **Playground** — Repositorio con notas, ejemplos y experimentos en desarrollo ([ver repo](https://github.com/lgzarturo/playground))  
+🔹 **Curso SpringBoot+Kotlin** — Repositorio con ejemplos paso a paso, buenas prácticas de programación y arquitectura de Microservicios API Rest ([ver repo](https://github.com/lgzarturo/springboot-course))  
+🔹 **Notas de tecnología** - Repositorio abierto con notas y trucos de desarrollo ([ver repo](https://github.com/lgzarturo/tech-notes))  
+
+---
+
+## 🧠 Filosofía de Desarrollo
+
+> “El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo.”
+
+Mi enfoque se basa en:
+- Diseñar sistemas **robustos, escalables y mantenibles**.  
+- Fomentar la **colaboración técnica** y el **crecimiento del equipo**.  
+- Integrar **pensamiento estratégico y técnico** en cada decisión.  
+
+---
+
+## 🌐 Conecta conmigo
+
+- 🌍 [developer.arthurolg.com](https://developer.arthurolg.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lgzarturo/)
+- 🐦 [Twitter (X)](https://twitter.com/lgzarturo)
+- 📸 [Instagram](https://www.instagram.com/lgzarturo/)
+- 📌 [Pinterest](https://www.pinterest.com.mx/arthurolg/)
+- 🎨 [Tumblr](https://lgzarturo.tumblr.com/)
 
 ---
 
@@ -71,13 +93,11 @@ Bienvenido a mi perfil de GitHub. Soy Arthuro LG., un **Desarrollador Full Stack
 
 ---
 
-### 💡 Proyectos destacados
+## 🤝 Siempre abierto a colaborar
 
-- [MiraElJuego.com](https://miraeljuego.com): Un juego de cartas interactivo desarrollado con React.
+Si tienes un proyecto en mente, una idea para construir o simplemente quieres hablar de tecnología, **escríbeme**. Me encanta compartir conocimiento y crear cosas que inspiren.
 
----
-
-¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto en mente o simplemente quieres conversar sobre tecnología, no dudes en contactarme.
+> ✉️ _“La mejor línea de código es la que conecta personas.”_
 
 ---
 
@@ -87,4 +107,8 @@ Bienvenido a mi perfil de GitHub. Soy Arthuro LG., un **Desarrollador Full Stack
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgzarturo&layout=compact&theme=dark)
+
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
+
+---
