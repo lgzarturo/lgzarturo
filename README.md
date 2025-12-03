@@ -123,7 +123,7 @@ Escribo artículos técnicos para ayudar a otros desarrolladores a escalar sus c
 ### ¿Tienes una idea o proyecto? Hablemos.
 Me encanta colaborar en proyectos Open Source y discutir arquitecturas complejas.
 
-[📧 Escríbeme](mailto:tuemail@ejemplo.com) • [🐦 Twitter / X](https://x.com/arturolgdev) • [💼 LinkedIn](https://www.linkedin.com/in/lgzarturo/)
+[📧 Escríbeme](mailto:lgzarturo@gmail.com) • [🐦 Twitter / X](https://x.com/arturolgdev) • [💼 LinkedIn](https://www.linkedin.com/in/lgzarturo/)
 
 <br>
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
