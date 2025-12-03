@@ -1,127 +1,132 @@
-# 🚀 [Arturo López](https://x.com/arturolgdev) — Líder Técnico & Desarrollador Full Stack
+# 🚀 [Arturo López](https://x.com/arturolgdev)
+### Líder Técnico & Arquitecto de Software Full Stack
 
-![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
+![Arturo López - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
-[![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20on%20GitHub&style=for-the-badge)](https://github.com/lgzarturo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20on%20Twitter&style=for-the-badge)](https://x.com/arturolgdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lgzarturo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lgzarturo)
+<div align="center">
 
-## 👋 ¡Hola, soy Arthuro!
+[![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=GitHub&style=for-the-badge&color=24292e)](https://github.com/lgzarturo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Twitter&style=for-the-badge&color=1DA1F2)](https://x.com/arturolgdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lgzarturo)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=firefox)](https://arthurolg.com)
 
-Soy un **Desarrollador Full Stack y Líder Técnico** con una profunda pasión por crear soluciones que combinan **tecnología, arquitectura de software y creatividad**.  
-Creo en el poder del código bien diseñado, los equipos motivados y los productos que generan impacto real.
-
-> 💡 “No solo construyo software, construyo soluciones que impulsan ideas.”
-
-## 🧭 Actualmente
-
-- 👨🏻‍💻 **Desarrollador en [Revenatium.com](https://revenatium.com)**: Desarrollo de plataformas innovadoras, arquitecturas escalables y promoviendo buenas prácticas de ingeniería.
-- 💼 **Desarrollo y soporte de [StarTalent](https://startalent.mx)**: Sistema para la administración de candidatos en procesos de reclutamiento.
-- ⚙️ **Explorando nuevas fronteras**: Profundizando en **microservicios**, **Node.js** y **arquitecturas distribuidas**.
+</div>
 
 ---
 
-## 🧰 Stack Tecnológico
+## 👨🏻‍💻 Sobre mí
 
-**Lenguajes:**  
-Java • Kotlin • JavaScript • Python
+Soy un **Desarrollador Full Stack y Líder Técnico** enfocado en la arquitectura de software escalable y la experiencia de usuario. Mi objetivo no es solo escribir código, sino diseñar **ecosistemas tecnológicos** que resuelvan problemas complejos de negocio. Combino la lógica de la ingeniería backend con la creatividad del diseño frontend.
 
-**Frameworks & Librerías:**  
-Spring Boot • React • Next.js • Django • Vue.js
-
-**Bases de datos:**  
-MySQL • PostgreSQL • MongoDB • Redis • DynamoDB
-
-**Infraestructura & DevOps:**  
-AWS • Docker • Kubernetes • GitHub Actions • Circle CI
-
-**Herramientas & Servicios:**  
-Git • Selenium • Scrapy • Hugo • Stripe • PayPal • Mailgun • Mailchimp • Sentry
+> 💡 _"El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo."_
 
 ---
 
-## 🎨 Lado Creativo
+## 🏆 Featured Repositories (Must Visit)
 
-Además de programar, disfruto crear experiencias visuales y estrategias digitales.
+Estos son mis proyectos educativos y de referencia técnica más activos. **Si quieres ver cómo codifico y estructuro soluciones, empieza por aquí:**
 
-- Diseño UI/UX e identidad corporativa  
-- Adobe Creative Suite (Photoshop, Illustrator, XD)  
-- SEO técnico y marketing digital orientado a resultados  
-
----
-
-## 💼 Proyectos Destacados
-
-🔹 **[arthurolg.com](https://arthurolg.com)** — Blog sobre tecnología, programación, marketing y videojuegos.  
-🔹 **[StarTalent.mx](https://startalent.mx)** — Sistema SaaS de gestión de reclutamiento  
-🔹 **[MiraElJuego.com](https://miraeljuego.com)** — Juego de cartas interactivo hecho en React  
-🔹 **Playground** — Repositorio con notas, ejemplos y experimentos en desarrollo ([ver repo](https://github.com/lgzarturo/playground))  
-🔹 **Curso SpringBoot+Kotlin** — Repositorio con ejemplos paso a paso, buenas prácticas de programación y arquitectura de Microservicios API Rest ([ver repo](https://github.com/lgzarturo/springboot-course))  
-🔹 **Notas de tecnología** - Repositorio abierto con notas y trucos de desarrollo ([ver repo](https://github.com/lgzarturo/tech-notes))  
+| ☕ **Backend Mastery: Spring Boot + Kotlin** | ⚡ **Frontend Lab: Modern JavaScript** |
+| :--- | :--- |
+| **[Ver Repositorio](https://github.com/lgzarturo/springboot-course)** | **[Ver Repositorio](https://github.com/lgzarturo/frontend-fundamentals-lab)** |
+| Una guía exhaustiva y paso a paso sobre arquitectura de **Microservicios y API REST**. Incluye patrones de diseño, manejo de errores y buenas prácticas de ingeniería con Kotlin. | Una bitácora técnica profunda sobre el ecosistema **JavaScript**. Desde los fundamentos del lenguaje hasta patrones avanzados para el desarrollo web moderno. |
+| `Kotlin` `Spring Boot` `Microservices` `Docker` | `JavaScript` `ES6+` `Algorithms` `Web APIs` |
 
 ---
 
-## 🧠 Filosofía de Desarrollo
+## 🧭 Situación Actual
 
-> “El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo.”
-
-Mi enfoque se basa en:
-- Diseñar sistemas **robustos, escalables y mantenibles**.  
-- Fomentar la **colaboración técnica** y el **crecimiento del equipo**.  
-- Integrar **pensamiento estratégico y técnico** en cada decisión.  
+- 🏗️ **Arquitecto en [Revenatium.com](https://revenatium.com)**: Liderando el desarrollo de plataformas escalables y definiendo estándares de ingeniería.
+- 💼 **Mantenimiento en [StarTalent.mx](https://startalent.mx)**: Optimizando el sistema SaaS de gestión de reclutamiento.
+- 🚀 **Enfoque de aprendizaje**: Profundizando en **Arquitecturas Distribuidas**, **Node.js** a gran escala y optimización de **Microservicios**.
 
 ---
 
-## 📰 Artículos y Recursos
+## 🧰 Tech Stack & Herramientas
 
-Comparto conocimientos y experiencias en mi blog: [arthurolg.com](https://arthurolg.com)
+<div align="center">
 
-Artículos destacados:
-- [**Consejos para Proyectos Escalables y Mantenibles**](https://www.arthurolg.com/article/programming_buenas-practicas-desarrollo-backend-proyectos-escalables)
-- [**Buenas Prácticas para el Diseño de API REST. Evita Exponer Entidades JPA y Usa DTOs Eficientemente**](https://www.arthurolg.com/article/programming_optimiza-api-rest-java-dtos-vs-entidades-jpa)
-- [**Guía Completa para Dominar Java y Spring Boot - Desarrollo de Aplicaciones Paso a Paso**](https://www.arthurolg.com/article/programming_guia-completa-java-spring-boot-desarrollo)
-- [**Reflexión inspirada en la dedicatoria del SICP**](https://www.arthurolg.com/article/programming_reflexion-inspirada-en-la-dedicatoria-del-sicp)
-- [**La Solución Ideal para Gestionar Planes de Lealtad y Fidelizar a tus Clientes**](https://www.arthurolg.com/article/marketing_loyalty-center-gestion-planes-lealtad)
+**Core & Backend**
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 
----
+**Frontend & UI**
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Hugo](https://img.shields.io/badge/Hugo-black?style=flat-square&logo=hugo)
 
-## 🌐 Conecta conmigo
+**Database & Cloud**
+<br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-- 🌍 [developer.arthurolg.com](https://developer.arthurolg.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lgzarturo/)
-- 🐦 [Twitter (X)](https://x.com/arturolgdev)
-- 📸 [Instagram](https://www.instagram.com/arturolgdev/)
-- 📌 [Pinterest](https://www.pinterest.com.mx/arthurolg/)
-- 🎨 [Tumblr](https://lgzarturo.tumblr.com/)
-
----
-
-### 🎯 Habilidades clave
-
-- Experto en programación y desarrollo de sistemas
-- Amplia experiencia en diseño gráfico y multimedia
-- Gestión de proyectos y trabajo en equipo
-- Pensamiento crítico y analítico
-- Conocimientos sólidos en marketing digital y branding empresarial
-
----
-
-## 🤝 Siempre abierto a colaborar
-
-Si tienes un proyecto en mente, una idea para construir o simplemente quieres hablar de tecnología, **escríbeme**. Me encanta compartir conocimiento y crear cosas que inspiren.
-
-> ✉️ _“La mejor línea de código es la que conecta personas.”_
+</div>
 
 ---
 
-### GitHub Stats
+## 💼 Portafolio
 
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+Además de mis repositorios educativos, he construido productos que generan valor real:
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgzarturo&layout=compact&theme=dark)
-
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
+- 🔹 **[arthurolg.com](https://arthurolg.com)** — Mi hub digital sobre tecnología, tutoriales y branding.
+- 🔹 **[StarTalent.mx](https://startalent.mx)** — SaaS completo para RRHH. *Stack: Java, Spring, React.*
+- 🔹 **[MiraElJuego.com](https://miraeljuego.com)** — Experiencia interactiva (Card Game). *Stack: React.*
+- 🔹 **[Tech Notes Repo](https://github.com/lgzarturo/tech-notes)** — Base de conocimiento open source con trucos y snippets.
 
 ---
+
+## 🧠 Filosofía & Creatividad
+
+Mi perfil es híbrido: **Ingeniería + Diseño**.
+Entiendo cómo funcionan los bits en el servidor, pero también cómo se siente la interfaz para el usuario.
+* 🖌️ **Diseño:** Adobe Creative Suite (Photoshop, Illustrator, XD) & UI/UX.
+* 📈 **Estrategia:** SEO Técnico y Marketing Digital orientado a conversión.
+
+---
+
+## 📰 Últimas Publicaciones
+
+Escribo artículos técnicos para ayudar a otros desarrolladores a escalar sus carreras:
+
+1.  [**Arquitectura Backend: Consejos para Proyectos Escalables**](https://www.arthurolg.com/article/programming_buenas-practicas-desarrollo-backend-proyectos-escalables)
+2.  [**Diseño de API REST: DTOs vs Entidades JPA**](https://www.arthurolg.com/article/programming_optimiza-api-rest-java-dtos-vs-entidades-jpa)
+3.  [**Guía Master de Java y Spring Boot**](https://www.arthurolg.com/article/programming_guia-completa-java-spring-boot-desarrollo)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/lgzarturo">
+  <img height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=midnight-teal&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgzarturo&layout=compact&theme=midnight-teal&hide_border=true&langs_count=8" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ¿Tienes una idea o proyecto? Hablemos.
+Me encanta colaborar en proyectos Open Source y discutir arquitecturas complejas.
+
+[📧 Escríbeme](mailto:tuemail@ejemplo.com) • [🐦 Twitter / X](https://x.com/arturolgdev) • [💼 LinkedIn](https://www.linkedin.com/in/lgzarturo/)
+
+<br>
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
+
+</div>
