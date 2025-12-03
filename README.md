@@ -112,7 +112,6 @@ Escribo artículos técnicos para ayudar a otros desarrolladores a escalar sus c
 
 <a href="https://github.com/lgzarturo">
   <img height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=midnight-teal&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgzarturo&layout=compact&theme=midnight-teal&hide_border=true&langs_count=8" />
 </a>
 
 </div>
