@@ -1,5 +1,5 @@
 # 🚀 [Arturo López](https://x.com/arturolgdev)
-### Líder Técnico & Arquitecto de Software Full Stack
+### Arquitecto de Software & Líder Técnico | +15 Años de Experiencia
 
 ![Arturo López - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
@@ -16,7 +16,9 @@
 
 ## 👨🏻‍💻 Sobre mí
 
-Soy un **Desarrollador Full Stack y Líder Técnico** enfocado en la arquitectura de software escalable y la experiencia de usuario. Mi objetivo no es solo escribir código, sino diseñar **ecosistemas tecnológicos** que resuelvan problemas complejos de negocio. Combino la lógica de la ingeniería backend con la creatividad del diseño frontend.
+Soy un **Ingeniero de Software y Arquitecto** apasionado por construir ecosistemas tecnológicos que no solo funcionan, sino que escalan y generan valor. Con más de **15 años de trayectoria**, mi enfoque combina la solidez de la ingeniería backend con la sensibilidad del diseño de producto.
+
+Me especializo en transformar requisitos complejos en soluciones simples y mantenibles. En mi experiencia reciente, he logrado **optimizar procesos backend mejorando la eficiencia del sistema en un 30%** y aumentar la satisfacción del cliente mediante arquitecturas robustas.
 
 > 💡 _"El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo."_
 
@@ -24,20 +26,20 @@ Soy un **Desarrollador Full Stack y Líder Técnico** enfocado en la arquitectur
 
 ## 🏆 Featured Repositories (Must Visit)
 
-Estos son mis proyectos educativos y de referencia técnica más activos. **Si quieres ver cómo codifico y estructuro soluciones, empieza por aquí:**
+Estos proyectos reflejan mi filosofía de trabajo: **documentación exhaustiva, buenas prácticas y aprendizaje continuo.**
 
 | ☕ **Backend Mastery: Spring Boot + Kotlin** | ⚡ **Frontend Lab: Modern JavaScript** |
 | :--- | :--- |
 | **[Ver Repositorio](https://github.com/lgzarturo/springboot-course)** | **[Ver Repositorio](https://github.com/lgzarturo/frontend-fundamentals-lab)** |
-| Una guía exhaustiva y paso a paso sobre arquitectura de **Microservicios y API REST**. Incluye patrones de diseño, manejo de errores y buenas prácticas de ingeniería con Kotlin. | Una bitácora técnica profunda sobre el ecosistema **JavaScript**. Desde los fundamentos del lenguaje hasta patrones avanzados para el desarrollo web moderno. |
-| `Kotlin` `Spring Boot` `Microservices` `Docker` | `JavaScript` `ES6+` `Algorithms` `Web APIs` |
+| Un curso completo y **altamente documentado** sobre Spring Boot. Enfocado en **Buenas Prácticas**, **Arquitectura Hexagonal** y **TDD**. Incluye una experiencia gamificada inspirada en Pokémon para dominar los retos del desarrollo backend real. | Mi bitácora técnica de **JavaScript Moderno**. Un laboratorio donde exploro desde los fundamentos hasta patrones avanzados, con un fuerte enfoque en **UI/UX** y diseño **Mobile-First**. |
+| `Kotlin` `Spring Boot` `Hexagonal Arch` `TDD` | `JavaScript` `Mobile First` `UI/UX` `ES6+` |
 
 ---
 
 ## 🧭 Situación Actual
 
-- 🏗️ **Arquitecto en [Revenatium.com](https://revenatium.com)**: Liderando el desarrollo de plataformas escalables y definiendo estándares de ingeniería.
-- 💼 **Mantenimiento en [StarTalent.mx](https://startalent.mx)**: Optimizando el sistema SaaS de gestión de reclutamiento.
+- 🏗️ **Arquitecto en [Revenatium.com](https://revenatium.com)**: Liderando el desarrollo de microservicios y plataformas escalables para el sector hotelero.
+- 💼 **Mantenimiento en [StarTalent.mx](https://startalent.mx)**: Optimización continua de SaaS para gestión de RRHH.
 - 🚀 **Enfoque de aprendizaje**: Profundizando en **Arquitecturas Distribuidas**, **Node.js** a gran escala y optimización de **Microservicios**.
 
 ---
@@ -98,11 +100,15 @@ Entiendo cómo funcionan los bits en el servidor, pero también cómo se siente 
 
 ## 📰 Últimas Publicaciones
 
-Escribo artículos técnicos para ayudar a otros desarrolladores a escalar sus carreras:
+Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
-1.  [**Arquitectura Backend: Consejos para Proyectos Escalables**](https://www.arthurolg.com/article/programming_buenas-practicas-desarrollo-backend-proyectos-escalables)
-2.  [**Diseño de API REST: DTOs vs Entidades JPA**](https://www.arthurolg.com/article/programming_optimiza-api-rest-java-dtos-vs-entidades-jpa)
-3.  [**Guía Master de Java y Spring Boot**](https://www.arthurolg.com/article/programming_guia-completa-java-spring-boot-desarrollo)
+1.  [**Los Hábitos que los Juniors Deben Copiar para Ser Esenciales**](https://www.arthurolg.com/article/programming_aprender-observando-seniors-desarrollo-software) - *Cómo impactar en el negocio más allá del código.*
+2.  [**Manifiesto del Programador Pragmático**](https://www.arthurolg.com/article/manifiesto-programador-pragmatico) - *Filosofía de vida y trabajo para desarrolladores.*
+3.  [**Consejos para Mejorar como Programador**](https://www.arthurolg.com/article/programming_consejos-para-mejorar-como-programador) - *Guía completa para acelerar tu progresión técnica.*
+4.  [**Las Metodologías Ágiles y la Creatividad**](https://www.arthurolg.com/article/programming_metodologias-agiles-creatividad-desarrollo-software) - *Adaptando procesos para fomentar el pensamiento profundo.*
+5.  [**Arquitectura Backend: Consejos para Proyectos Escalables**](https://www.arthurolg.com/article/programming_buenas-practicas-desarrollo-backend-proyectos-escalables)
+6.  [**Diseño de API REST: DTOs vs Entidades JPA**](https://www.arthurolg.com/article/programming_optimiza-api-rest-java-dtos-vs-entidades-jpa)
+7.  [**Guía Master de Java y Spring Boot**](https://www.arthurolg.com/article/programming_guia-completa-java-spring-boot-desarrollo)
 
 ---
 
