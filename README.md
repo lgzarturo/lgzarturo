@@ -1,5 +1,5 @@
 # 🚀 [Arturo López](https://x.com/arturolgdev)
-### Arquitecto de Software & Líder Técnico | +15 Años de Experiencia
+### Ingeniero Full Stack & Líder Técnico | +15 Años de Experiencia
 
 ![Arturo López - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
@@ -18,7 +18,9 @@
 
 Soy un **Ingeniero de Software y Arquitecto** apasionado por construir ecosistemas tecnológicos que no solo funcionan, sino que escalan y generan valor. Con más de **15 años de trayectoria**, mi enfoque combina la solidez de la ingeniería backend con la sensibilidad del diseño de producto.
 
-Me especializo en transformar requisitos complejos en soluciones simples y mantenibles. En mi experiencia reciente, he logrado **optimizar procesos backend mejorando la eficiencia del sistema en un 30%** y aumentar la satisfacción del cliente mediante arquitecturas robustas.
+Me especializo en transformar requisitos complejos en soluciones simples y mantenibles. Construyo productos web que funcionan a largo plazo. Backend sólido con Java y Spring Boot, proyectos ágiles con Python (Django, FastAPI) y PHP (Laravel), y una capa de estrategia digital que conecta la ingeniería con los resultados del negocio.
+
+15 años en la industria hotelera y de tecnología me enseñaron que el código más importante es el que no tienes que reescribir dos años después.
 
 > 💡 _"El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo."_
 
@@ -56,6 +58,8 @@ Estos proyectos reflejan mi filosofía de trabajo: **documentación exhaustiva, 
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
 **Frontend & UI**
 <br>
@@ -130,8 +134,5 @@ Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayu
 Me encanta colaborar en proyectos Open Source y discutir arquitecturas complejas.
 
 [📧 Escríbeme](mailto:lgzarturo@gmail.com) • [🐦 Twitter / X](https://x.com/arturolgdev) • [💼 LinkedIn](https://www.linkedin.com/in/lgzarturo/)
-
-<br>
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 
 </div>
