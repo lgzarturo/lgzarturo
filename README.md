@@ -1,11 +1,11 @@
-# 🚀 [Arturo López](https://x.com/arturolgdev)
-### Líder Técnico | 15 años construyendo software para la industria hotelera
+# [Arturo L. Gómez](https://arthurolg.com)
+### Technical Leader | Product Engineer
 
 Diseño y construyo **productos digitales escalables** — plataformas SaaS, sistemas backend y herramientas que sobreviven el contacto con usuarios reales.
 
-`Spring Boot` `Django` `Laravel` `React` `Software Architecture` `Product Engineering`
+`Spring Boot` `Django` `Laravel` `React` `Software Architecture` `Product Engineering` `Cloud`
 
-![Arturo López - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
+![Arturo L. Gómez - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
 
 <div align="center">
 
@@ -25,7 +25,9 @@ Como **Technical Leader y Product Engineer**, me especializo en diseñar arquite
 
 15 años en la industria hotelera y de tecnología me enseñaron algo que ningún framework enseña: **el código más importante es el que no tienes que reescribir dos años después.** Conozco el dominio — reservaciones, canal directo, programas de lealtad, gestión de RRHH — y eso me permite tomar decisiones técnicas que sobreviven al negocio.
 
-Más allá del código, me apasiona la arquitectura de software, la experiencia de desarrollador, el clean code y el mentoring de equipos de ingeniería.
+Mi expertise principal incluye **Spring Boot, Django, Laravel, React** y desarrollo cloud-native, combinando ingeniería, capacidades de AI y product thinking para entregar valor medible.
+
+Lidero decisiones de arquitectura, mejoro developer experience y mentoro equipos de ingeniería.
 
 > 💡 _"El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo."_
 
@@ -42,15 +44,15 @@ No solo escribo sobre software — construyo productos que generan valor real:
 
 ---
 
-## 🏆 Repositorios destacados
+## 🏆 Proyectos que demuestran criterio
 
-Documentación exhaustiva, buenas prácticas y aprendizaje continuo:
+Arquitectura, buenas prácticas y sistemas diseñados para producción:
 
-| ☕ **Backend Mastery: Spring Boot + Kotlin** | ⚡ **Frontend Lab: Modern JavaScript** |
+| ☕ **API REST: Spring Boot + Kotlin** | 🤖 **CodeConductor: AI-assisted Engineering** |
 | :--- | :--- |
-| **[Ver Repositorio](https://github.com/lgzarturo/springboot-course)** | **[Ver Repositorio](https://github.com/lgzarturo/frontend-fundamentals-lab)** |
-| **Problema:** la mayoría de cursos enseña sintaxis, no criterio. **Solución:** curso completo de Spring Boot enfocado en arquitectura hexagonal, TDD y buenas prácticas, con experiencia gamificada inspirada en Pokémon. | **Problema:** los fundamentos se pierden entre frameworks. **Solución:** bitácora técnica de JavaScript moderno, desde fundamentos hasta patrones avanzados, con enfoque UI/UX y Mobile-First. |
-| `Kotlin` `Spring Boot` `Hexagonal Arch` `TDD` | `JavaScript` `Mobile First` `UI/UX` `ES6+` |
+| **[Ver Repositorio](https://github.com/lgzarturo/blog)** | **[Ver Repositorio](https://github.com/lgzarturo/codeconductor)** |
+| **Problema:** APIs que crecen sin criterio se vuelven imposibles de mantener. **Solución:** API REST con Spring Boot y Kotlin, Gradle y patrones listos para escalar. | **Problema:** el prompting caótico no escala en equipos de ingeniería. **Solución:** framework de ingeniería asistida por AI que convierte el desarrollo en un sistema reproducible. |
+| `Kotlin` `Spring Boot` `REST API` `Gradle` | `TypeScript` `AI Solutions` `Developer Experience` `System Design` |
 
 ---
 
@@ -58,26 +60,13 @@ Documentación exhaustiva, buenas prácticas y aprendizaje continuo:
 
 - 🏗️ **Arquitecto en [Revenatium.com](https://revenatium.com)** — liderando microservicios y plataformas para el sector hotelero.
 - 💼 **Mantenimiento en [StarTalent.mx](https://startalent.mx)** — optimización continua de SaaS de RRHH.
-- 🚀 **Aprendizaje activo** — arquitecturas distribuidas, Node.js a gran escala, AI-powered applications.
+- 🚀 **Exploración técnica** — arquitecturas distribuidas y aplicaciones con capacidades de AI para próximos productos.
 
 ---
 
 ## 🧰 Stack principal
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+`Spring Boot` • `Django` • `Laravel` • `React` • `PostgreSQL` • `AWS` • `Docker`
 
 Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en el servidor y cómo se siente la interfaz para el usuario. Diseño (Adobe CC, UI/UX) y estrategia (SEO técnico, marketing de conversión) al servicio del producto.
 
@@ -94,9 +83,8 @@ Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayu
 
 <div align="center">
 
-### ¿Tienes una idea o proyecto? Hablemos.
-Me encanta colaborar en proyectos Open Source y discutir arquitecturas complejas.
+### ¿Construyes un producto SaaS o plataforma hotelera? Hablemos.
 
-[📧 Escríbeme](mailto:lgzarturo@gmail.com) • [🐦 Twitter / X](https://x.com/arturolgdev) • [💼 LinkedIn](https://www.linkedin.com/in/lgzarturo/)
+[📧 Escríbeme](mailto:lgzarturo@gmail.com) • [🐦 Twitter / X](https://x.com/algforge) • [💼 LinkedIn](https://www.linkedin.com/in/lgzarturo/)
 
 </div>
