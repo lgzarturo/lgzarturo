@@ -77,6 +77,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Liderazgo Técnico: Deja de Copiar Frameworks y Empieza a Copiar Principios](https://www.arthurolg.com/article/programming_liderazgo-tecnico-principios/)
+- [El Arte de Actuar Sin Depender del Resultado](https://www.arthurolg.com/article/actuar-sin-depender-del-resultado/)
+- [La Teoría de los 4 Quemadores: Equilibrio y Decisiones en la Vida de un Programador](https://www.arthurolg.com/article/la-teoria-de-los-4-quemadores-para-programadores/)
+- [Revolucionando el Desarrollo: Flujos Agénticos con CodeConductor y Cursor](https://www.arthurolg.com/article/programming_codeconductor-cursor-flujo-agentico/)
+- [Por qué la IA no Reemplazará al Ingeniero de Software](https://www.arthurolg.com/article/technology_el-diferencial-humano-desarrollo-software-ia/)
+- [Ventajas de Usar Kotlin en Spring Boot 4.1.x](https://www.arthurolg.com/article/springboot-course_ventajas-kotlin-spring-boot-4-1-x/)
+- [Configurar Claude Code para trabajo serio - velocidad, control de tokens y un arnés de seguridad](https://www.arthurolg.com/article/programming_configurar-claude-code-para-trabajo-serio/)
 <!-- BLOG-ALG:END -->
 
 ---
