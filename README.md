@@ -1,7 +1,9 @@
 # [Arturo L. Gómez](https://arthurolg.com)
-### Technical Leader | Product Engineer
+## Technical Leader & Product Engineer | Arquitectura escalable para Hospitality, Travel Tech & SaaS
 
-Diseño y construyo **productos digitales escalables** — plataformas SaaS, sistemas backend y herramientas que sobreviven el contacto con usuarios reales.
+> Creador de CodeConductor (AI Engineering, Open Source)
+
+Construyo **productos digitales** que resuelven **problemas reales de negocio**.
 
 `Spring Boot` `Django` `Laravel` `React` `Software Architecture` `Product Engineering` `Cloud`
 
@@ -19,16 +21,18 @@ Diseño y construyo **productos digitales escalables** — plataformas SaaS, sis
 
 ## 👨🏻‍💻 Sobre mí
 
-Construyo productos digitales que resuelven problemas reales de negocio.
+Diseño **arquitecturas escalables** que sobreviven al crecimiento del negocio. Como **Technical Leader**, **Software Architect** y **Product Engineer**, dirijo la evolución de **sistemas core** en **Hospitality**, **Travel Tech** y **SaaS**: **motores de reservación**, **plataformas de lealtad** y **ATS (Applicant Tracking Systems)** con miles de usuarios activos.
 
-Como **Technical Leader y Product Engineer**, me especializo en diseñar arquitecturas de software escalables, liderar iniciativas de ingeniería y entregar sistemas mantenibles en los ecosistemas de **Java, Kotlin, Python y TypeScript**.
+**Track record** medible: migración de **70,000+ usuarios** a **arquitectura de microservicios** sin **downtime** (+25% suscriptores), reducción del **40% en tiempos operativos** mediante **automatización**, incremento del **60% en clientes corporativos** tras un rediseño completo de plataforma.
 
-15 años en la industria hotelera y de tecnología me enseñaron algo que ningún framework enseña: **el código más importante es el que no tienes que reescribir dos años después.** Conozco el dominio — reservaciones, canal directo, programas de lealtad, gestión de RRHH — y eso me permite tomar decisiones técnicas que sobreviven al negocio.
+Trabajo con **Java**, **Kotlin**, **Python** y **TypeScript**, utilizando **Spring Boot**, **FastAPI**, **Django**, **React**, **Next.js**, **PostgreSQL**, **AWS** y arquitecturas **Cloud-Native**. Combino **System Design**, **Clean Architecture**, **Domain-Driven Design (DDD)**, **SOLID**, **CI/CD** y **Product Thinking** para convertir decisiones técnicas en resultados de negocio.
 
-Mi expertise principal incluye **Spring Boot, Django, Laravel, React** y desarrollo cloud-native, combinando ingeniería, capacidades de AI y product thinking para entregar valor medible.
+Además, soy creador de **CodeConductor**, un **framework Open Source** para **AI-Assisted Software Engineering**, enfocado en **Multi-Agent Orchestration**, **LLM Workflows**, **Prompt Engineering**, **Task Orchestration**, **TDD**, **Code Review** y **Developer Experience (DX)**. Mi objetivo es transformar el prompting improvisado en procesos reproducibles para equipos de ingeniería.
 
-Lidero decisiones de arquitectura, mejoro developer experience y mentoro equipos de ingeniería.
+Me interesa colaborar en proyectos de **Hospitality**, **Travel Tech**, **SaaS**, **Artificial Intelligence**, **Developer Tools**, **Platform Engineering** y **Software Architecture**, donde la tecnología genere ventajas competitivas medibles.
 
+> **CodeConductor** es un framework **Open Source** para **AI-Assisted Software Engineering** que convierte instrucciones de alto nivel en **workflows reproducibles**, permitiendo planificar, implementar, revisar y documentar software mediante **orquestación de agentes de IA**.
+> 
 > 💡 _"El código limpio no es una meta, es una consecuencia de entender profundamente el problema que estás resolviendo."_
 
 ---
