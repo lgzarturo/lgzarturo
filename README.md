@@ -81,13 +81,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Planes de Lealtad en el Canal Directo Hotelero: Puntos, Cashback y Beneficios Reales que Convierten](https://www.arthurolg.com/article/marketing_planes-lealtad-canal-directo-hoteles/)
 - [Spider-Man: Brand New Day, el &#39;Superpoder&#39; de los Programadores y la Vida Adulta](https://www.arthurolg.com/article/spider-man-brand-new-day-superpoderes-programadores/)
+- [Fundamentos y Mentalidad: La Sabiduría Técnica que Construye Carreras de Por Vida](https://www.arthurolg.com/article/programming_fundamentos-y-mentalidad-sabiduria-tecnica-desarrollo-software/)
 - [De Escribir Código a Hacer Ingeniería: Algoritmos, Estructuras de Datos y Reglas de Negocio](https://www.arthurolg.com/article/programming_de-escribir-codigo-a-hacer-ingenieria-algoritmos-estructuras-de-datos-y-productos/)
 - [Liderazgo Técnico: Deja de Copiar Frameworks y Empieza a Copiar Principios](https://www.arthurolg.com/article/programming_liderazgo-tecnico-principios/)
 - [El Arte de Actuar Sin Depender del Resultado](https://www.arthurolg.com/article/actuar-sin-depender-del-resultado/)
 - [La Teoría de los 4 Quemadores: Equilibrio y Decisiones en la Vida de un Programador](https://www.arthurolg.com/article/la-teoria-de-los-4-quemadores-para-programadores/)
-- [Revolucionando el Desarrollo: Flujos Agénticos con CodeConductor y Cursor](https://www.arthurolg.com/article/programming_codeconductor-cursor-flujo-agentico/)
-- [Por qué la IA no Reemplazará al Ingeniero de Software](https://www.arthurolg.com/article/technology_el-diferencial-humano-desarrollo-software-ia/)
 <!-- BLOG-ALG:END -->
 
 ---
