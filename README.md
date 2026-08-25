@@ -7,7 +7,7 @@ Construyo **productos digitales** que resuelven **problemas reales de negocio**.
 
 `Spring Boot` `Django` `Laravel` `React` `Software Architecture` `Product Engineering` `Cloud`
 
-![Arturo L. Gómez - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
+![Arturo L. Gómez - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header-v2.webp)
 
 <div align="center">
 
