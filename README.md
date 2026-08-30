@@ -1,11 +1,11 @@
-# [Arturo L. Gómez](https://arthurolg.com)
-## Technical Leader & Product Engineer | Arquitectura escalable para Hospitality, Travel Tech & SaaS
+# [Arturo L. Gómez](https://lgzarturo.com)
+### Technical Leader | Software Architect | Product Engineer
 
 > Creador de CodeConductor (AI Engineering, Open Source)
 
 Construyo **productos digitales** que resuelven **problemas reales de negocio**.
 
-`Spring Boot` `Django` `Laravel` `React` `Software Architecture` `Product Engineering` `Cloud`
+`Spring Boot` `Kotlin` `Django` `Laravel` `React` `Software Architecture` `Microservices` `Product Engineering` `Cloud` `SaaS`
 
 ![Arturo L. Gómez - Header](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header-v2.webp)
 
@@ -13,7 +13,7 @@ Construyo **productos digitales** que resuelven **problemas reales de negocio**.
 
 [![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=GitHub&style=for-the-badge&color=24292e)](https://github.com/lgzarturo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lgzarturo)
-[![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=firefox)](https://arthurolg.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=firefox)](https://lgzarturo.com)
 
 </div>
 
@@ -25,7 +25,7 @@ Diseño **arquitecturas escalables** que sobreviven al crecimiento del negocio. 
 
 **Track record** medible: migración de **70,000+ usuarios** a **arquitectura de microservicios** sin **downtime** (+25% suscriptores), reducción del **40% en tiempos operativos** mediante **automatización**, incremento del **60% en clientes corporativos** tras un rediseño completo de plataforma.
 
-Trabajo con **Java**, **Kotlin**, **Python** y **TypeScript**, utilizando **Spring Boot**, **FastAPI**, **Django**, **React**, **Next.js**, **PostgreSQL**, **AWS** y arquitecturas **Cloud-Native**. Combino **System Design**, **Clean Architecture**, **Domain-Driven Design (DDD)**, **SOLID**, **CI/CD** y **Product Thinking** para convertir decisiones técnicas en resultados de negocio.
+15 años en la industria hotelera y de tecnología me enseñaron algo que ningún framework enseña: **el código más importante es el que no tienes que reescribir dos años después.** Conozco el dominio — reservaciones, canal directo, programas de lealtad, gestión de RRHH, plataformas SaaS — y eso me permite tomar decisiones técnicas que sobreviven al negocio. Especializado en arquitecturas de microservicios, sistemas distribuidos y diseño de APIs escalables.
 
 Además, soy creador de **CodeConductor**, un **framework Open Source** para **AI-Assisted Software Engineering**, enfocado en **Multi-Agent Orchestration**, **LLM Workflows**, **Prompt Engineering**, **Task Orchestration**, **TDD**, **Code Review** y **Developer Experience (DX)**. Mi objetivo es transformar el prompting improvisado en procesos reproducibles para equipos de ingeniería.
 
@@ -52,11 +52,29 @@ No solo escribo sobre software — construyo productos que generan valor real:
 
 Arquitectura, buenas prácticas y sistemas diseñados para producción:
 
-| ☕ **API REST: Spring Boot + Kotlin** | 🤖 **CodeConductor: AI-assisted Engineering** |
-| :--- | :--- |
-| **[Ver Repositorio](https://github.com/lgzarturo/blog)** | **[Ver Repositorio](https://github.com/lgzarturo/codeconductor)** |
-| **Problema:** APIs que crecen sin criterio se vuelven imposibles de mantener. **Solución:** API REST con Spring Boot y Kotlin, Gradle y patrones listos para escalar. | **Problema:** el prompting caótico no escala en equipos de ingeniería. **Solución:** framework de ingeniería asistida por AI que convierte el desarrollo en un sistema reproducible. |
-| `Kotlin` `Spring Boot` `REST API` `Gradle` | `TypeScript` `AI Solutions` `Developer Experience` `System Design` |
+### ☕ API REST: Spring Boot + Kotlin
+
+**[Ver Repositorio](https://github.com/lgzarturo/blog)**
+
+- **Arquitectura hexagonal (ports & adapters)** — separación clara entre dominio, aplicación e infraestructura. El dominio no conoce Spring ni JPA.
+- **Clean Architecture en capas** — controllers → services → repositories → entities. Cada capa tiene una responsabilidad y testing independiente.
+- **Gradle multi-módulo** — separación de concerns en módulos independientes (domain, application, infrastructure, api). Build escalable y mantenible.
+- **Patrones de diseño aplicados** — DTO pattern, Repository pattern, Service layer, Dependency Injection via Spring Boot. Testing con MockK.
+
+`Kotlin` `Spring Boot` `REST API` `Gradle` `Hexagonal Architecture` `Clean Architecture`
+
+---
+
+### 🤖 CodeConductor: AI-assisted Engineering
+
+**[Ver Repositorio](https://github.com/lgzarturo/codeconductor)**
+
+- **Framework de ingeniería asistida por AI** — convierte el desarrollo en un sistema reproducible con prompts estructurados, validaciones y workflows.
+- **Arquitectura de skills modular** — sistema de habilidades especializadas (backlog, openspec, testing, security) que se cargan bajo demanda según contexto.
+- **CCEP (CodeConductor Execution Protocol)** — protocolo de ejecución con fases: parse → resolve → evaluate → plan → implement → validate. Gate-based workflow.
+- **Developer Experience first** — CLI commands, validaciones automáticas, task cards con acceptance criteria medibles. Zero ambiguity en handoffs.
+
+`TypeScript` `AI Solutions` `Developer Experience` `System Design` `CLI` `Workflow Automation`
 
 ---
 
