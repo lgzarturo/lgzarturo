@@ -41,10 +41,24 @@ Me interesa colaborar en proyectos de **Hospitality**, **Travel Tech**, **SaaS**
 
 No solo escribo sobre software — construyo productos que generan valor real:
 
-- 🔹 **[Revenatium.com](https://revenatium.com)** — Arquitecto líder. Microservicios y plataformas escalables para el sector hotelero: motor de reservaciones, canal directo, loyalty.
-- 🔹 **[StarTalent.mx](https://startalent.mx)** — SaaS completo para gestión de RRHH. Optimización y evolución continua. *Stack: Java, Spring, React.*
+- 🔹 **[Revenatium.com](https://revenatium.com)** — Arquitecto líder. Microservicios y plataformas escalables para el sector hotelero: motor de reservaciones, canal directo, loyalty. [[📖 Ver Arquitectura](docs/projects/revenatium/README.md)]
+- 🔹 **[StarTalent.mx](https://startalent.mx)** — SaaS completo para gestión de RRHH. Optimización y evolución continua. *Stack: Java, Spring, React.* [[📖 Ver Arquitectura](docs/projects/startalent/README.md)]
 - 🔹 **[arthurolg.com](https://arthurolg.com)** — Hub digital sobre tecnología, tutoriales y branding. +50 artículos publicados.
 - 🔹 **[MiraElJuego.com](https://miraeljuego.com)** — Experiencia interactiva (Card Game). *Stack: React.*
+
+---
+
+## 📐 Arquitectura & Casos de Estudio
+
+Para profundizar en el diseño técnico, decisiones de arquitectura (**ADRs**) y diagramas de los sistemas que lidero y construyo, consulta la documentación detallada:
+
+| Proyecto | Descripción Arquitectónica | Documentación |
+| :--- | :--- | :---: |
+| 🏨 **Revenatium** | Motor de reservaciones, lealtad y microservicios hospitality | [📖 Ver Caso de Estudio](docs/projects/revenatium/README.md) |
+| 🤖 **CodeConductor** | Framework Open Source para orquestación de agentes de IA | [📖 Ver Caso de Estudio](docs/projects/codeconductor/README.md) |
+| 💼 **StarTalent** | SaaS ATS para gestión de talento y embudos de reclutamiento | [📖 Ver Caso de Estudio](docs/projects/startalent/README.md) |
+
+> 📁 *Puedes explorar el índice general de arquitectura en la carpeta [`docs/`](docs/README.md).*
 
 ---
 
@@ -67,7 +81,7 @@ Arquitectura, buenas prácticas y sistemas diseñados para producción:
 
 ### 🤖 CodeConductor: AI-assisted Engineering
 
-**[Ver Repositorio](https://github.com/lgzarturo/codeconductor)**
+**[Ver Repositorio](https://github.com/lgzarturo/codeconductor)** • **[📖 Ver Caso de Estudio](docs/projects/codeconductor/README.md)**
 
 - **Framework de ingeniería asistida por AI** — convierte el desarrollo en un sistema reproducible con prompts estructurados, validaciones y workflows.
 - **Arquitectura de skills modular** — sistema de habilidades especializadas (backlog, openspec, testing, security) que se cargan bajo demanda según contexto.
