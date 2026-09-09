@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Trascender el Código: Las Habilidades que Realmente Importan en la Era de la IA](https://www.arthurolg.com/article/technology_trascender-el-codigo-habilidades-era-ia/)
 - [Kotlin, Spring Boot 4.1 y Java 25: Corrutinas, Virtual Threads y Conexiones PostgreSQL al Límite](https://www.arthurolg.com/article/springboot-course_kotlin-springboot-4-java-25-concurrencia-postgresql/)
 - [El Retorno a la Trinchera: Spring Boot 4.1.1, JDK 25 y la Hoja de Ruta del Gran Hotel Pokémon](https://www.arthurolg.com/article/springboot-course_spring-boot-4-1-1-jdk-25-hoja-de-ruta-hotel-pokemon/)
 - [PokéDev: Práctica Deliberada, 170 Preguntas Técnicas y Modo Offline para Dominar Spring Boot](https://www.arthurolg.com/article/springboot-course_pokedev-springboot-challenge-practica-deliberada-offline/)
 - [La Verdad sobre la Firma de IA: Procedencia, Responsabilidad y el Estigma del Esfuerzo](https://www.arthurolg.com/article/technology_firma-ia-procedencia-responsabilidad/)
 - [Más Allá del Chat: Por Qué Definir un Workflow Determinista con IA es tu Mejor Inversión](https://www.arthurolg.com/article/technology_mas-alla-del-chat-por-que-definir-un-workflow-con-ia-es-la-mejor-inversion/)
 - [Planes de Lealtad en el Canal Directo Hotelero: Puntos, Cashback y Beneficios Reales que Convierten](https://www.arthurolg.com/article/marketing_planes-lealtad-canal-directo-hoteles/)
-- [Spider-Man: Brand New Day, el &#39;Superpoder&#39; de los Programadores y la Vida Adulta](https://www.arthurolg.com/article/spider-man-brand-new-day-superpoderes-programadores/)
 <!-- BLOG-ALG:END -->
 
 ---
