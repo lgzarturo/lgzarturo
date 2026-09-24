@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Java 27: por qué la verdadera evolución de la plataforma ocurre debajo de tu código](https://www.arthurolg.com/article/programming_java-27-novedades-jvm-rendimiento-evolucion/)
+- [4 libros para interpretar que me ayudaron a domar el estrés](https://www.arthurolg.com/article/arquitectura-mental-libros-reflexion-estres/)
 - [Ingeniería del subconsciente: neurociencia práctica para programar tu procesamiento implícito](https://www.arthurolg.com/article/ingenieria-del-subconsciente-procesamiento-implicito/)
 - [Ken Thompson y el mito de las tres semanas: primeros principios de Unix a Go](https://www.arthurolg.com/article/programming_ken-thompson-mito-tres-semanas-unix-go/)
 - [Más Ingeniería y Menos Prompting: Por Qué Tu Flujo con Agentes Necesita un Arnés](https://www.arthurolg.com/article/technology_mas-ingenieria-menos-prompting-codeconductor/)
 - [El Triángulo de la Felicidad: Tiempo, Dinero, Energía y el Arte de la Cobija Corta](https://www.arthurolg.com/article/el-triangulo-de-la-felicidad/)
 - [La trampa del mejor modelo: por qué la guerra de la IA se gana en el producto y la economía de tokens](https://www.arthurolg.com/article/technology_la-trampa-del-mejor-modelo-economia-de-tokens/)
-- [¿La IA Destroza tu Concentración? Cómo Dominar la Espera Activa y Vencer el Cambio de Contexto](https://www.arthurolg.com/article/technology_la-ia-destroza-tu-concentracion-espera-activa/)
-- [Trascender el Código: Las Habilidades que Realmente Importan en la Era de la IA](https://www.arthurolg.com/article/technology_trascender-el-codigo-habilidades-era-ia/)
 <!-- BLOG-ALG:END -->
 
 ---
