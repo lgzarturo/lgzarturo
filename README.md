@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Reinventando el canal directo en la hotelería: Arquitectura, IA y el ecosistema Revenatium](https://www.arthurolg.com/article/marketing_reinventando-canal-directo-hoteleria-ia-revenatium/)
 - [20 cosas que me ha enseñado la vida a los 43](https://www.arthurolg.com/article/20-cosas-que-me-ha-ensenado-la-vida-a-los-43/)
 - [Java 27: por qué la verdadera evolución de la plataforma ocurre debajo de tu código](https://www.arthurolg.com/article/programming_java-27-novedades-jvm-rendimiento-evolucion/)
 - [4 libros para interpretar que me ayudaron a domar el estrés](https://www.arthurolg.com/article/arquitectura-mental-libros-reflexion-estres/)
 - [Ingeniería de hábitos: mi plan de 12 semanas para revertir el sedentarismo](https://www.arthurolg.com/article/ingenieria-de-habitos-plan-12-semanas-salud/)
 - [Ingeniería del subconsciente: neurociencia práctica para programar tu procesamiento implícito](https://www.arthurolg.com/article/ingenieria-del-subconsciente-procesamiento-implicito/)
 - [Ken Thompson y el mito de las tres semanas: primeros principios de Unix a Go](https://www.arthurolg.com/article/programming_ken-thompson-mito-tres-semanas-unix-go/)
-- [Más Ingeniería y Menos Prompting: Por Qué Tu Flujo con Agentes Necesita un Arnés](https://www.arthurolg.com/article/technology_mas-ingenieria-menos-prompting-codeconductor/)
 <!-- BLOG-ALG:END -->
 
 ---
