@@ -114,12 +114,12 @@ Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayu
 
 <!-- BLOG-ALG:START -->
 - [El nuevo cuello de botella no es escribir código: es administrar nuestra atención](https://www.arthurolg.com/article/technology_nuevo-cuello-de-botella-atencion-agentes-ia/)
+- [Herdr vs. Orca: dónde viven tus agentes y cómo revisas lo que hacen](https://www.arthurolg.com/article/technology_herdr-vs-orca-sesiones-persistentes-o-revision-de-agentes/)
 - [OpenSpec y el stack agéntico definitivo: de la teoría al código](https://www.arthurolg.com/article/technology_openspec-stack-agentico-12-factor/)
 - [Reinventando el canal directo en la hotelería: Arquitectura, IA y el ecosistema Revenatium](https://www.arthurolg.com/article/marketing_reinventando-canal-directo-hoteleria-ia-revenatium/)
 - [20 cosas que me ha enseñado la vida a los 43](https://www.arthurolg.com/article/20-cosas-que-me-ha-ensenado-la-vida-a-los-43/)
 - [Java 27: por qué la verdadera evolución de la plataforma ocurre debajo de tu código](https://www.arthurolg.com/article/programming_java-27-novedades-jvm-rendimiento-evolucion/)
 - [4 libros para interpretar que me ayudaron a domar el estrés](https://www.arthurolg.com/article/arquitectura-mental-libros-reflexion-estres/)
-- [Ingeniería de hábitos: mi plan de 12 semanas para revertir el sedentarismo](https://www.arthurolg.com/article/ingenieria-de-habitos-plan-12-semanas-salud/)
 <!-- BLOG-ALG:END -->
 
 ---
