@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Las 7 lecciones del estoicismo que marcaron mi vida y me enseñaron a mantener el balance](https://www.arthurolg.com/article/7-lecciones-estoicismo-vida-balance/)
 - [Cómo scrapear tarifas hoteleras y no morir en el intento: paridad, doble moral y evidencia auditable](https://www.arthurolg.com/article/marketing_scraping-tarifas-hoteleras-paridad-canal-directo/)
 - [El correo de los 500 dólares: cuando el recorte de tokens se disfraza de progreso](https://www.arthurolg.com/article/technology_fin-tokens-subsidiados-dependencia-agentes-ia/)
 - [570 Horas de IA: La Ilusión del Software Clonable y la Nueva Guerra por el Código](https://www.arthurolg.com/article/technology_570-horas-ia-software-clonable-vibecoding-propiedad-intelectual/)
 - [El nuevo cuello de botella no es escribir código: es administrar nuestra atención](https://www.arthurolg.com/article/technology_nuevo-cuello-de-botella-atencion-agentes-ia/)
 - [Herdr vs. Orca: dónde viven tus agentes y cómo revisas lo que hacen](https://www.arthurolg.com/article/technology_herdr-vs-orca-sesiones-persistentes-o-revision-de-agentes/)
 - [OpenSpec y el stack agéntico definitivo: de la teoría al código](https://www.arthurolg.com/article/technology_openspec-stack-agentico-12-factor/)
-- [Reinventando el canal directo en la hotelería: Arquitectura, IA y el ecosistema Revenatium](https://www.arthurolg.com/article/marketing_reinventando-canal-directo-hoteleria-ia-revenatium/)
 <!-- BLOG-ALG:END -->
 
 ---
