@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [SDD No Está Roto: El Peligro de Pedirle Magia a la IA sin Ingeniería](https://www.arthurolg.com/article/technology_sdd-no-esta-roto-ia-ingenieria-arnes/)
 - [Del Prompt al Motor Gráfico: Cómo Construí Agent Zero con MicroSDD y un Arnés Multiagente](https://www.arthurolg.com/article/technology_agent-zero-microsdd-arnes-agentes/)
 - [Vas a estar más tiempo muerto que vivo: la urgencia de disfrutar a los tuyos antes de que sea tarde](https://www.arthurolg.com/article/mas-tiempo-muerto-que-vivo-disfrutar-presente/)
+- [Si Miguel Ángel Fuera Arquitecto de Software: Diseñar por Sustracción y Desmitificar Códigos Secretos](https://www.arthurolg.com/article/programming_miguel-angel-arquitectura-software-patrones-sustraccion/)
 - [Las 7 lecciones del estoicismo que marcaron mi vida y me enseñaron a mantener el balance](https://www.arthurolg.com/article/7-lecciones-estoicismo-vida-balance/)
 - [Cómo scrapear tarifas hoteleras y no morir en el intento: paridad, doble moral y evidencia auditable](https://www.arthurolg.com/article/marketing_scraping-tarifas-hoteleras-paridad-canal-directo/)
 - [El correo de los 500 dólares: cuando el recorte de tokens se disfraza de progreso](https://www.arthurolg.com/article/technology_fin-tokens-subsidiados-dependencia-agentes-ia/)
-- [570 Horas de IA: La Ilusión del Software Clonable y la Nueva Guerra por el Código](https://www.arthurolg.com/article/technology_570-horas-ia-software-clonable-vibecoding-propiedad-intelectual/)
-- [El nuevo cuello de botella no es escribir código: es administrar nuestra atención](https://www.arthurolg.com/article/technology_nuevo-cuello-de-botella-atencion-agentes-ia/)
 <!-- BLOG-ALG:END -->
 
 ---
