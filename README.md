@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [¿Sigues Leyendo Todo el Código de la IA? Diffs, TDD y Certeza Determinista](https://www.arthurolg.com/article/technology_sigues-leyendo-todo-codigo-ia-diffs-tdd-validacion-determinista/)
 - [Cibercrimen en la Era de la IA: Del Asedio Automatizado al Robo de Datos para el Futuro](https://www.arthurolg.com/article/technology_cibercrimen-era-ia-asedio-automatizado-robo-datos-futuro/)
 - [La Falacia del Vibe Coding: Por Qué Sin Primeros Principios Solo Automatizas Deuda Técnica](https://www.arthurolg.com/article/technology_vibe-coding-primeros-principios-ingenieria-arneses/)
 - [El Problema no es el Código de la IA: Es la Falta de Criterio Técnico](https://www.arthurolg.com/article/technology_codigo-ia-desconfianza-criterio-tecnico-ingenieria/)
 - [La trampa de los PRs en segundo plano: cómo preservar tu contexto frente a la IA](https://www.arthurolg.com/article/technology_trampa-prs-segundo-plano-contexto-ia/)
 - [SDD No Está Roto: El Peligro de Pedirle Magia a la IA sin Ingeniería](https://www.arthurolg.com/article/technology_sdd-no-esta-roto-ia-ingenieria-arnes/)
 - [Del Prompt al Motor Gráfico: Cómo Construí Agent Zero con MicroSDD y un Arnés Multiagente](https://www.arthurolg.com/article/technology_agent-zero-microsdd-arnes-agentes/)
-- [Vas a estar más tiempo muerto que vivo: la urgencia de disfrutar a los tuyos antes de que sea tarde](https://www.arthurolg.com/article/mas-tiempo-muerto-que-vivo-disfrutar-presente/)
 <!-- BLOG-ALG:END -->
 
 ---
