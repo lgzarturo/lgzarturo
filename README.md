@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Tu agente de código guarda tus secretos en texto plano: 1,379 ya están en GitHub](https://www.arthurolg.com/article/technology_agente-codigo-secretos-texto-plano-settings-local-json/)
+- [Antes de elegir modelo, define qué significa terminar](https://www.arthurolg.com/article/technology_antes-de-elegir-modelo-define-que-significa-terminar/)
+- [El Tablero Real de la IA: Cómputo, Integración Vertical y la Batalla que el Marketing no Puede Ganar](https://www.arthurolg.com/article/technology_tablero-real-ia-computo-integracion-vertical-distribucion/)
+- [Más Allá de Teclear Código: Por Qué la IA Debe Mejorar Nuestro Trabajo y no Solo Multiplicarlo](https://www.arthurolg.com/article/technology_mas-alla-teclear-codigo-ia-ingenieria-productividad-condiciones/)
+- [¿A Quién le Creo al Elegir un Modelo para Programar? Workers, Razonadores y el Secreto del Effort](https://www.arthurolg.com/article/technology_elegir-modelo-ia-programar-workers-razonadores-effort/)
 - [¿Sigues Leyendo Todo el Código de la IA? Diffs, TDD y Certeza Determinista](https://www.arthurolg.com/article/technology_sigues-leyendo-todo-codigo-ia-diffs-tdd-validacion-determinista/)
 - [Cibercrimen en la Era de la IA: Del Asedio Automatizado al Robo de Datos para el Futuro](https://www.arthurolg.com/article/technology_cibercrimen-era-ia-asedio-automatizado-robo-datos-futuro/)
-- [La Falacia del Vibe Coding: Por Qué Sin Primeros Principios Solo Automatizas Deuda Técnica](https://www.arthurolg.com/article/technology_vibe-coding-primeros-principios-ingenieria-arneses/)
-- [El Problema no es el Código de la IA: Es la Falta de Criterio Técnico](https://www.arthurolg.com/article/technology_codigo-ia-desconfianza-criterio-tecnico-ingenieria/)
-- [La trampa de los PRs en segundo plano: cómo preservar tu contexto frente a la IA](https://www.arthurolg.com/article/technology_trampa-prs-segundo-plano-contexto-ia/)
-- [SDD No Está Roto: El Peligro de Pedirle Magia a la IA sin Ingeniería](https://www.arthurolg.com/article/technology_sdd-no-esta-roto-ia-ingenieria-arnes/)
-- [Del Prompt al Motor Gráfico: Cómo Construí Agent Zero con MicroSDD y un Arnés Multiagente](https://www.arthurolg.com/article/technology_agent-zero-microsdd-arnes-agentes/)
 <!-- BLOG-ALG:END -->
 
 ---
