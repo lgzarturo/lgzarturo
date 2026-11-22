@@ -113,13 +113,13 @@ Perfil híbrido **Ingeniería + Diseño**: entiendo cómo funcionan los bits en 
 Escribo regularmente en **[arthurolg.com](https://www.arthurolg.com/)** para ayudar a otros desarrolladores a escalar sus carreras:
 
 <!-- BLOG-ALG:START -->
+- [Rust y Go en el Desarrollo Agéntico: Del Side Project a la Supervivencia Operativa en la Empresa](https://www.arthurolg.com/article/technology_rust-go-desarrollo-agentico-side-projects-industria/)
 - [No Hackearon el Congelador: Hackearon el Panel que lo Controla desde Internet](https://www.arthurolg.com/article/technology_no-hackearon-el-congelador-paneles-ot-internet/)
 - [Panorama IA 2026: La Cadena de Valor, las Cifras del T3 y Qué es Real Frente al Ruido](https://www.arthurolg.com/article/technology_panorama-ia-2026-cadena-valor-cifras-hechos-cuellos-botella/)
 - [Tu agente de código guarda tus secretos en texto plano: 1,379 ya están en GitHub](https://www.arthurolg.com/article/technology_agente-codigo-secretos-texto-plano-settings-local-json/)
 - [Antes de elegir modelo, define qué significa terminar](https://www.arthurolg.com/article/technology_antes-de-elegir-modelo-define-que-significa-terminar/)
 - [El Tablero Real de la IA: Cómputo, Integración Vertical y la Batalla que el Marketing no Puede Ganar](https://www.arthurolg.com/article/technology_tablero-real-ia-computo-integracion-vertical-distribucion/)
 - [Más Allá de Teclear Código: Por Qué la IA Debe Mejorar Nuestro Trabajo y no Solo Multiplicarlo](https://www.arthurolg.com/article/technology_mas-alla-teclear-codigo-ia-ingenieria-productividad-condiciones/)
-- [¿A Quién le Creo al Elegir un Modelo para Programar? Workers, Razonadores y el Secreto del Effort](https://www.arthurolg.com/article/technology_elegir-modelo-ia-programar-workers-razonadores-effort/)
 <!-- BLOG-ALG:END -->
 
 ---
